@@ -1,2 +1,4 @@
 # Locale-date-string
-Convert date to sensitive local date based on user's location 
+
+var date1 = new Date();
+date1.toLocaleDateString();
